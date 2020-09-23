@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/* generate random color for background */
+.color-container{
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+}
+.text-button{
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
